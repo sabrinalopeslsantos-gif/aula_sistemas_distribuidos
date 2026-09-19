@@ -1,3 +1,3 @@
 # aula_sistemas_distribuidos
 
-aqui você encontra respostas e códigos em vscode criados para a aula1 de sistemas distribuidos 
+aqui você encontra respostas e códigos em Ubuntu criados para a aula1 de sistemas distribuidos 
